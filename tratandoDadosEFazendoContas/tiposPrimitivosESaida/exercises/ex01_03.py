@@ -8,20 +8,20 @@ print('A soma entre {} e {} = {}'.format(number1, number2, result))
 
 #print(type(number2))
 
-
 #Float
-number3 = float(input('Whitch is number' ))
+#number3 = float(input('Whitch is number' ))
 
-print('{} '.format(number3))
+#print('{} '.format(number3))
 
 #Bool
-number4 = bool(input('Whitch is number' ))
+#number4 = bool(input('Whitch is number' ))
 
-print('{} '.format(number4))
+#print('{} '.format(number4))
 
 
 #str
-number5 = str(input('Whitch is number' ))
+#number5 = str(input('Whitch is number' ))
 
-print('{} '.format(number5))
+#print('{} '.format(number5))
+
 
