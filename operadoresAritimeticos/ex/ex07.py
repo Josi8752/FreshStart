@@ -1,5 +1,3 @@
-import math
-
 
 #Média Aritimética
 

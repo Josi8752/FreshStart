@@ -1,3 +1,5 @@
+# DOBRO, TRIPLO E QUADRADO
+
 import math
 
 n1 = float(input(' Qual o é número? '))

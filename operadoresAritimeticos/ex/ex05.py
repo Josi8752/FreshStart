@@ -1,3 +1,5 @@
+# SUCESSOR E ANTECESSOR
+
 n1 = int(input('Qual o primeiro número? '))
 n2 = int(input ('Qual o segundo número? '))
 
